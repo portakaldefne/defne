@@ -94,7 +94,7 @@ main article{
 #songRecs{align-items: center;}
 #formAnswer{display: flex; align-items: center; justify-content: center; flex-flow: row nowrap;}
 
-#langItem, #songRecs {padding: 10px 0 10px 0} /* for mobile screen compatibility */
+#songRecs {padding: 10px 0 10px 0} /* for mobile screen compatibility */
 /*------ IDs ------*/
 
 
