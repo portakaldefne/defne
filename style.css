@@ -71,7 +71,7 @@ main article{
   flex-grow: 1;
 }
 
-main a{
+main>a{
   display: block;
   margin: 1em 0 1em 0;
 }
