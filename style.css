@@ -92,6 +92,7 @@ main article{
 #langItem{display: flex; justify-content: space-evenly; align-items: center;}
 #returnItem{display: flex; align-items: center;}
 #songRecs{align-items: center;}
+#formAnswer{display: flex; align-items: center;}
 
 /*------ IDs ------*/
 
