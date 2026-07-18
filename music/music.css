@@ -1,0 +1,74 @@
+/* root if need be*/
+/* root if need be*/
+
+/* general rules */
+body{
+  background-image: url(https://geocities.ws/lady-supermarket/tiled-background-cats.png);
+  color: white;
+  margin: 0 10% 0 10%;
+}
+h3{
+  text-align: center;
+}
+
+a{
+  color: white;
+}
+a:visited{
+  color: white;
+}
+
+main{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+/* general rules */
+
+/*classes*/
+
+.song{
+  width: 330px;
+  background-color: darkorchid;
+  border: 5px darkorchid solid;
+  outline: 5px black solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom:10%
+}
+
+.topbar{  
+background-color:#0078D7;
+display: flex;
+margin: 10px 10% 5% 10% ;
+height: 3rem;
+justify-content: space-evenly;
+align-items: center;
+}
+
+/*classes*/
+
+/*IDs*/
+#musicInfo{
+  display: flex;
+  background-color: #f28500;
+  text-align: center;
+  border: 5px darkorchid solid;
+  outline: 5px black solid ;
+  flex-direction: column;
+  margin-bottom: 200px;
+}
+#infoTitle{border-bottom: 5px darkorchid solid; margin: 0px; padding: 15px;}
+#infoText{border-top: 5px black solid; margin:0; padding: 15px;}
+#return{
+  background-color: #f28500;
+  text-align: left;
+  padding: 0 0 5px 5px;
+}
+/*IDs*/
+
+
+
+.englishContent{display:none;}
