@@ -91,7 +91,7 @@ main article{
 #cboxDisclaimer{margin: 2%;}
 #langItem{display: flex; justify-content: space-evenly; align-items: center;}
 #returnItem{display: flex; align-items: center;}
-#songRecs{display: flex; align-items: center; font-size: 1.5rem;}
+#songRecs{display: flex; align-items: center;}
 
 /*------ IDs ------*/
 
